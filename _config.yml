@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/blackruby-code"
-url: "blackrubycode.github.io"
+url: "http://blackrubycode.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
