@@ -13,8 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+        <p>블랙루비스튜디오 코딩코딩</p>        
   header_text_feature_image:
   footer_text: >
         Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
@@ -27,7 +26,7 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "choisho/blackrubycode.github.io"
   google_plus:
   instagram:
   linkedin:  # Full URL
